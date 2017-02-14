@@ -1,0 +1,13 @@
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\bin\Debug\IT_Master_Ap.exe.config
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\bin\Debug\IT_Master_Ap.exe
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\bin\Debug\IT_Master_Ap.pdb
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.Form1.resources
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.Properties.Resources.resources
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.csproj.GenerateResource.Cache
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.exe
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.pdb
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.csprojResolveAssemblyReference.cache
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.addTableForm.resources
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.Login.resources
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.changePasswordForm.resources
+C:\Users\wpierce\Desktop\IT_Master_Ap\IT_Master_Ap\obj\Debug\IT_Master_Ap.AddUserForm.resources
